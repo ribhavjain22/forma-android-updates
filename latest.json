@@ -1,9 +1,9 @@
 {
-  "versionCode": 1766,
-  "versionName": "0.1.37",
-  "apkUrl": "https://ribhavjain22.github.io/forma-android-updates/apks/forma-1766-88bc96fca744a1c86d1849f955706bc8ab0847995bbb0ce836c852cf11cd3990.apk",
-  "sha256": "88bc96fca744a1c86d1849f955706bc8ab0847995bbb0ce836c852cf11cd3990",
-  "size": 7014017,
+  "versionCode": 1767,
+  "versionName": "0.1.38",
+  "apkUrl": "https://ribhavjain22.github.io/forma-android-updates/apks/forma-1767-cb13626f80817bba7b1e27ba4ec40e15af6f7dae46d5fc41b0a86cf8d3ef9365.apk",
+  "sha256": "cb13626f80817bba7b1e27ba4ec40e15af6f7dae46d5fc41b0a86cf8d3ef9365",
+  "size": 7014209,
   "packageName": "com.ribhav.diettracker",
   "minSdk": 26
 }
